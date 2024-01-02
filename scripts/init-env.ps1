@@ -1,4 +1,4 @@
-#Connect-AzAccount
+Connect-AzAccount
 
 $githubOrganizationName = 'jone-aarre'
 $githubRepositoryName = 'change-reviews'
